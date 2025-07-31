@@ -1,0 +1,7 @@
+# Ignore frontend libraries from language stats
+wwwroot/** linguist-vendored
+lib/** linguist-vendored
+node_modules/** linguist-vendored
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
